@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JKP/static/css/main.8b8fd50b.css",
+    "main.js": "/JKP/static/js/main.c4690b96.js",
+    "static/js/787.20d4f481.chunk.js": "/JKP/static/js/787.20d4f481.chunk.js",
+    "index.html": "/JKP/index.html",
+    "main.8b8fd50b.css.map": "/JKP/static/css/main.8b8fd50b.css.map",
+    "main.c4690b96.js.map": "/JKP/static/js/main.c4690b96.js.map",
+    "787.20d4f481.chunk.js.map": "/JKP/static/js/787.20d4f481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8fd50b.css",
+    "static/js/main.c4690b96.js"
+  ]
+}
